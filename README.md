@@ -12,6 +12,55 @@ This chatbot integrates multiple components to provide a rich conversational exp
 - Perform logical reasoning about food
 - Demonstrate advanced AI algorithms
 
+## Project Development History
+
+### Phase 1: Initial Setup and Core Architecture
+- **Created modular component-based architecture** with separate modules for different functionalities
+- **Implemented DataManager** (`chatbot_components/data_manager.py`) to handle loading and managing all data sources
+- **Built NlpHandler** (`chatbot_components/nlp_handler.py`) for natural language processing using TF-IDF and cosine similarity
+- **Developed LogicEngine** (`chatbot_components/logic_engine.py`) for logical reasoning about food relationships
+- **Created PictureSystem** (`chatbot_components/picture_system.py`) for image handling and classification
+- **Implemented AdvancedAlgorithms** (`chatbot_components/advanced_algorithms.py`) for AI algorithm demonstrations
+
+### Phase 2: Data Integration and Knowledge Base
+- **Integrated Q&A database** (`food_qa_expanded.csv`) with 170+ food-related questions and answers
+- **Added dish database** (`dish_database.json`) containing 20+ dishes with recipes, cultural info, and prep times
+- **Implemented logical knowledge base** (`food_logical_kb.csv`) for food relationship reasoning
+- **Organized image database** with 200+ food images across 20+ categories in the `images/` directory
+
+### Phase 3: AI and Machine Learning Features
+- **Implemented image classification** using pre-trained neural networks (MobileNetV2)
+- **Added computer vision capabilities** with Azure Computer Vision API integration
+- **Created transformer model demonstrations** with attention mechanisms
+- **Implemented algorithm demonstrations** including:
+  - Breadth-First Search (BFS)
+  - Traveling Salesperson Problem (TSP) solver
+  - Linear Regression models
+- **Built similarity-based question matching** using NLP techniques
+
+### Phase 4: User Interface and Interaction
+- **Developed comprehensive command system** with 50+ different user interaction patterns
+- **Implemented image display functionality** for food visualization
+- **Added recipe and preparation step retrieval**
+- **Created nationality and origin checking** for dishes
+- **Built Wikipedia integration** for additional food information
+- **Implemented logical reasoning queries** for food relationships
+
+### Phase 5: GitHub Repository Setup and Optimization
+- **Created comprehensive .gitignore** to exclude large files (virtual environment, model files)
+- **Developed setup_model.py** for automated neural network training
+- **Optimized repository size** by excluding 76MB model file and virtual environment
+- **Resolved merge conflicts** between local and remote README files
+- **Successfully committed 245 files** to GitHub repository
+- **Implemented proper documentation** with installation and usage instructions
+
+### Phase 6: Documentation and Deployment
+- **Created detailed README** with comprehensive feature documentation
+- **Added troubleshooting section** for common issues
+- **Implemented setup scripts** for easy project initialization
+- **Documented all AI features** and algorithm demonstrations
+- **Provided example conversations** and usage patterns
+
 ## Features
 
 ### Food Information & Recipes
@@ -205,3 +254,11 @@ The following files are excluded from git due to size limits:
 - `.venv/` - Virtual environment (can be recreated)
 - `classical_nn_model.h5` - Neural network model (can be retrained)
 - `__pycache__/` - Python cache files
+
+## Repository Statistics
+- **Total Files**: 245 files committed to GitHub
+- **Repository Size**: Optimized to stay within GitHub limits
+- **Lines of Code**: 2,959+ lines of Python code
+- **Image Database**: 230 food images across 20+ categories
+- **AI Features**: 4 major AI/ML components implemented
+- **User Commands**: 50+ different interaction patterns supported
