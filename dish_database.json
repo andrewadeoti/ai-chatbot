@@ -1,0 +1,597 @@
+{
+  "dumplings": {
+      "culture": "China",
+      "type": "main",
+      "recipe": [
+          "Prepare the dough by mixing flour and water.",
+          "Make the filling using minced pork and cabbage.",
+          "Wrap the filling in dough wrappers.",
+          "Boil or steam the dumplings until cooked."
+      ],
+      "prep_time": 45  
+  },
+  "donuts": {
+      "culture": "USA",
+      "type": "dessert",
+      "recipe": [
+          "Mix flour, sugar, yeast, and milk into a dough.",
+          "Let dough rise, then cut into rings.",
+          "Fry in hot oil until golden.",
+          "Dust with powdered sugar or glaze."
+      ],
+      "prep_time": 90  
+  },
+  "chicken_curry": {
+      "culture": "India",
+      "type": "main",
+      "recipe": [
+          "Sauté onions, garlic, and ginger in oil.",
+          "Add chicken and brown it.",
+          "Mix in spices and tomatoes.",
+          "Simmer with coconut milk until chicken is tender."
+      ],
+      "prep_time": 60
+  },
+  "cheesecake": {
+      "culture": "USA",
+      "type": "dessert",
+      "recipe": [
+          "Crush biscuits and mix with butter for crust.",
+          "Blend cream cheese, sugar, and eggs.",
+          "Pour over crust and bake.",
+          "Chill before serving."
+      ],
+      "prep_time": 120  
+  },
+  
+  "ceviche": {
+      "culture": "Peru",
+      "type": "main",
+      "recipe": [
+          "Dice fresh fish and marinate in lime juice.",
+          "Add chopped onions, tomatoes, and cilantro.",
+          "Season with salt and pepper.",
+          "Serve cold."
+      ],
+      "prep_time": 30
+  },
+  "carrot cake": {
+      "culture": "UK",
+      "type": "dessert",
+      "recipe": [
+          "Grate carrots and mix with flour, sugar, eggs.",
+          "Add walnuts and cinnamon.",
+          "Bake until golden.",
+          "Top with cream cheese frosting."
+      ],
+      "prep_time": 75  
+  },
+  "cannoli": {
+      "culture": "Italy",
+      "type": "dessert",
+      "recipe": [
+          "Roll dough into thin circles and fry into shells.",
+          "Mix ricotta with sugar and chocolate chips.",
+          "Fill shells with mixture.",
+          "Dust with powdered sugar."
+      ],
+      "prep_time": 60
+  },
+  "caesar salad": {
+      "culture": "Mexico",
+      "type": "appetizer",
+      "recipe": [
+          "Tear romaine lettuce into bite-sized pieces.",
+          "Toss with croutons and parmesan.",
+          "Mix dressing with anchovies, garlic, and lemon.",
+          "Drizzle over salad."
+      ],
+      "prep_time": 20
+  },
+  "bruschetta": {
+      "culture": "Italy",
+      "type": "appetizer",
+      "recipe": [
+          "Toast bread slices.",
+          "Dice tomatoes and mix with garlic and basil.",
+          "Spoon mixture onto bread.",
+          "Drizzle with olive oil."
+      ],
+      "prep_time": 15
+  },
+  "breakfast burrito": {
+      "culture": "USA",
+      "type": "breakfast",
+      "recipe": [
+          "Scramble eggs with bacon and potatoes.",
+          "Grate cheese and warm tortillas.",
+          "Fill tortillas with mixture.",
+          "Roll up and serve."
+      ],
+      "prep_time": 25
+  },
+  "bread pudding": {
+      "culture": "UK",
+      "type": "dessert",
+      "recipe": [
+          "Cube stale bread and soak in milk and eggs.",
+          "Add sugar and raisins.",
+          "Bake until set.",
+          "Serve with custard."
+      ],
+      "prep_time": 60  
+  },
+  "bibimbap": {
+      "culture": "Korea",
+      "type": "main",
+      "recipe": [
+          "Cook rice and prepare vegetables.",
+          "Fry an egg and slice beef.",
+          "Arrange over rice with gochujang.",
+          "Mix and serve."
+      ],
+      "prep_time": 45
+  },
+  "beignets": {
+      "culture": "France",
+      "type": "dessert",
+      "recipe": [
+          "Make dough with flour, yeast, and sugar.",
+          "Let rise, then cut into squares.",
+          "Fry until puffy and golden.",
+          "Dust with powdered sugar."
+      ],
+      "prep_time": 90  
+  },
+  "beet salad": {
+      "culture": "Eastern Europe",
+      "type": "appetizer",
+      "recipe": [
+          "Roast beets and slice.",
+          "Toss with arugula and walnuts.",
+          "Crumble goat cheese on top.",
+          "Dress with vinaigrette."
+      ],
+      "prep_time": 60  
+  },
+  "beef tartare": {
+      "culture": "France",
+      "type": "appetizer",
+      "recipe": [
+          "Finely chop raw beef.",
+          "Mix with egg yolk, onion, and capers.",
+          "Season with mustard and salt.",
+          "Serve chilled."
+      ],
+      "prep_time": 20
+  },
+  "beef carpaccio": {
+      "culture": "Italy",
+      "type": "appetizer",
+      "recipe": [
+          "Thinly slice raw beef.",
+          "Arrange on a plate with arugula.",
+          "Shave parmesan over top.",
+          "Drizzle with olive oil."
+      ],
+      "prep_time": 15
+  },
+  "baklava": {
+      "culture": "Turkey",
+      "type": "dessert",
+      "recipe": [
+          "Layer phyllo dough with nuts and butter.",
+          "Bake until golden.",
+          "Pour honey syrup over hot baklava.",
+          "Cool before cutting."
+      ],
+      "prep_time": 75  
+  },
+  "babyback ribs": {
+      "culture": "USA",
+      "type": "main",
+      "recipe": [
+          "Season ribs with spices.",
+          "Coat with BBQ sauce.",
+          "Bake or grill until tender.",
+          "Serve hot."
+      ],
+      "prep_time": 180  
+  },
+  "apple pie": {
+      "culture": "USA",
+      "type": "dessert",
+      "recipe": [
+          "Roll out pie crust.",
+          "Slice apples and mix with sugar and cinnamon.",
+          "Fill crust and top with another layer.",
+          "Bake until crust is golden."
+      ],
+      "prep_time": 90  
+  },
+  "fish and chips": {
+      "culture": "UK",
+      "type": "main",
+      "recipe": [
+          "Cut potatoes into fries and fry.",
+          "Batter fish with flour and fry.",
+          "Season with salt.",
+          "Serve with malt vinegar."
+      ],
+      "prep_time": 45
+  },
+  "foie gras": {
+      "culture": "France",
+      "type": "appetizer",
+      "recipe": [
+          "Season duck liver with salt and pepper.",
+          "Sear briefly on high heat.",
+          "Slice and serve warm.",
+          "Pair with toast."
+      ],
+      "prep_time": 20
+  },
+  "french fries": {
+      "culture": "Belgium",
+      "type": "side",
+      "recipe": [
+          "Cut potatoes into strips.",
+          "Fry in hot oil until crispy.",
+          "Season with salt.",
+          "Serve hot."
+      ],
+      "prep_time": 30
+  },
+  "french onion soup": {
+      "culture": "France",
+      "type": "appetizer",
+      "recipe": [
+          "Caramelize onions in butter.",
+          "Add beef broth and simmer.",
+          "Top with bread and cheese.",
+          "Broil until cheese melts."
+      ],
+      "prep_time": 60
+  },
+  "french toast": {
+      "culture": "France",
+      "type": "breakfast",
+      "recipe": [
+          "Whisk eggs with milk.",
+          "Dip bread slices in mixture.",
+          "Fry until golden.",
+          "Serve with syrup."
+      ],
+      "prep_time": 20
+  },
+  "fried rice": {
+      "culture": "China",
+      "type": "main",
+      "recipe": [
+          "Cook rice and cool.",
+          "Stir-fry vegetables and egg.",
+          "Add rice and soy sauce.",
+          "Cook until heated through."
+      ],
+      "prep_time": 30
+  },
+  "gyoza": {
+      "culture": "Japan",
+      "type": "street food",
+      "recipe": [
+          "Mix pork, cabbage, garlic, and ginger.",
+          "Wrap in dough wrappers.",
+          "Pan-fry until bottoms are crisp.",
+          "Steam with a lid until cooked."
+      ],
+      "prep_time": 45
+  },
+  "hamburger": {
+      "culture": "USA",
+      "type": "main",
+      "recipe": [
+          "Form beef into patties and season.",
+          "Grill or fry patties.",
+          "Assemble in bun with lettuce, tomato, cheese.",
+          "Serve with condiments."
+      ],
+      "prep_time": 30
+  },
+  "ice cream": {
+      "culture": "Global",
+      "type": "dessert",
+      "recipe": [
+          "Heat milk, cream, and sugar.",
+          "Add vanilla and cool.",
+          "Churn in an ice cream maker.",
+          "Freeze until firm."
+      ],
+      "prep_time": 120  
+  },
+  "lasagna": {
+      "culture": "Italy",
+      "type": "main",
+      "recipe": [
+          "Cook pasta sheets.",
+          "Layer with cheese, tomato sauce, and beef.",
+          "Bake until bubbly.",
+          "Rest before slicing."
+      ],
+      "prep_time": 90  
+  },
+  "lobster bisque": {
+      "culture": "France",
+      "type": "soup",
+      "recipe": [
+          "Cook lobster and extract meat.",
+          "Simmer shells with cream and tomato paste.",
+          "Blend and strain.",
+          "Add lobster meat and serve."
+      ],
+      "prep_time": 75
+  },
+  "lobster roll sandwich": {
+      "culture": "USA",
+      "type": "main",
+      "recipe": [
+          "Cook lobster and chop meat.",
+          "Mix with mayonnaise and celery.",
+          "Toast bread rolls.",
+          "Fill with lobster mixture."
+      ],
+      "prep_time": 45
+  },
+  "macaroni and cheese": {
+      "culture": "USA",
+      "type": "main",
+      "recipe": [
+          "Cook pasta.",
+          "Melt cheese with milk and butter.",
+          "Mix with pasta.",
+          "Bake until golden."
+      ],
+      "prep_time": 45  
+  },
+  "macarons": {
+      "culture": "France",
+      "type": "dessert",
+      "recipe": [
+          "Whip egg whites with sugar.",
+          "Fold in almond flour.",
+          "Pipe onto trays and bake.",
+          "Sandwich with buttercream."
+      ],
+      "prep_time": 60
+  },
+  "miso soup": {
+      "culture": "Japan",
+      "type": "soup",
+      "recipe": [
+          "Heat water and add miso paste.",
+          "Add tofu and seaweed.",
+          "Simmer briefly.",
+          "Garnish with green onions."
+      ],
+      "prep_time": 15
+  },
+  "nachos": {
+      "culture": "Mexico",
+      "type": "snack",
+      "recipe": [
+          "Spread tortilla chips on a tray.",
+          "Top with cheese and jalapenos.",
+          "Bake until cheese melts.",
+          "Serve with salsa."
+      ],
+      "prep_time": 20
+  },
+  "onion rings": {
+      "culture": "USA",
+      "type": "side",
+      "recipe": [
+          "Slice onions into rings.",
+          "Dip in flour and breadcrumbs.",
+          "Fry until crispy.",
+          "Season with salt."
+      ],
+      "prep_time": 30
+  },
+  "pad thai": {
+      "culture": "Thailand",
+      "type": "main",
+      "recipe": [
+          "Soak rice noodles.",
+          "Stir-fry shrimp, peanuts, and egg.",
+          "Add noodles and sauce.",
+          "Serve with lime."
+      ],
+      "prep_time": 40
+  },
+  "paella": {
+      "culture": "Spain",
+      "type": "main",
+      "recipe": [
+          "Sauté seafood and chicken.",
+          "Add rice and saffron.",
+          "Simmer with stock.",
+          "Cook until rice is tender."
+      ],
+      "prep_time": 60
+  },
+  "peking duck": {
+      "culture": "China",
+      "type": "main",
+      "recipe": [
+          "Roast duck until crispy.",
+          "Slice thinly.",
+          "Serve with pancakes and hoisin sauce.",
+          "Add scallions."
+      ],
+      "prep_time": 180  
+  },
+  "pho": {
+      "culture": "Vietnam",
+      "type": "soup",
+      "recipe": [
+          "Simmer beef bones for broth.",
+          "Add noodles and herbs.",
+          "Slice beef thinly.",
+          "Serve with lime."
+      ],
+      "prep_time": 240  
+  },
+  "pizza": {
+      "culture": "Italy",
+      "type": "main",
+      "recipe": [
+          "Roll out dough.",
+          "Spread tomato sauce and cheese.",
+          "Add pepperoni.",
+          "Bake until crust is crisp."
+      ],
+      "prep_time": 45 
+  },
+  "pork chop": {
+      "culture": "USA",
+      "type": "main",
+      "recipe": [
+          "Season pork with salt and pepper.",
+          "Sear in a pan with oil.",
+          "Cook until done.",
+          "Serve with sauce."
+      ],
+      "prep_time": 30
+  },
+  "ravioli": {
+      "culture": "Italy",
+      "type": "main",
+      "recipe": [
+          "Make pasta dough.",
+          "Fill with cheese mixture.",
+          "Seal and boil.",
+          "Serve with tomato sauce."
+      ],
+      "prep_time": 60
+  },
+  "red velvet cake": {
+      "culture": "USA",
+      "type": "dessert",
+      "recipe": [
+          "Mix flour, sugar, and cocoa.",
+          "Add eggs and red coloring.",
+          "Bake until risen.",
+          "Frost with cream cheese."
+      ],
+      "prep_time": 75 
+  },
+  "risotto": {
+      "culture": "Italy",
+      "type": "main",
+      "recipe": [
+          "Sauté rice with mushrooms.",
+          "Add chicken stock gradually.",
+          "Stir until creamy.",
+          "Finish with parmesan."
+      ],
+      "prep_time": 45
+  },
+  "samosa": {
+      "culture": "India",
+      "type": "street food",
+      "recipe": [
+          "Make dough with flour and water.",
+          "Fill with spiced potatoes and peas.",
+          "Fold and fry.",
+          "Serve with chutney."
+      ],
+      "prep_time": 60
+  },
+  "spaghetti bolognese": {
+      "culture": "Italy",
+      "type": "main",
+      "recipe": [
+          "Cook spaghetti.",
+          "Simmer beef with tomato sauce and garlic.",
+          "Mix with pasta.",
+          "Top with cheese."
+      ],
+      "prep_time": 60
+  },
+  "spaghetti carbonara": {
+      "culture": "Italy",
+      "type": "main",
+      "recipe": [
+          "Cook spaghetti.",
+          "Mix eggs with cheese and pancetta.",
+          "Toss with hot pasta.",
+          "Serve immediately."
+      ],
+      "prep_time": 30
+  },
+  "spring rolls": {
+      "culture": "Vietnam",
+      "type": "appetizer",
+      "recipe": [
+          "Soak rice paper.",
+          "Fill with shrimp and vegetables.",
+          "Roll tightly.",
+          "Serve with peanut sauce."
+      ],
+      "prep_time": 30
+  },
+  "steak": {
+      "culture": "USA",
+      "type": "main",
+      "recipe": [
+          "Season beef with salt and pepper.",
+          "Grill or sear to desired doneness.",
+          "Rest before slicing.",
+          "Serve with butter."
+      ],
+      "prep_time": 30
+  },
+  "tacos": {
+      "culture": "Mexico",
+      "type": "street food",
+      "recipe": [
+          "Cook the beef with spices.",
+          "Warm the tortillas.",
+          "Assemble tacos with beef, salsa, and cheese.",
+          "Serve with lime wedges."
+      ],
+      "prep_time": 30
+  },
+  "takoyaki": {
+      "culture": "Japan",
+      "type": "street food",
+      "recipe": [
+          "Make batter with flour and water.",
+          "Add octopus pieces.",
+          "Cook in a takoyaki pan.",
+          "Top with sauce and onions."
+      ],
+      "prep_time": 45
+  },
+  "tiramisu": {
+      "culture": "Italy",
+      "type": "dessert",
+      "recipe": [
+          "Dip ladyfingers in coffee.",
+          "Layer with mascarpone and cocoa.",
+          "Chill overnight.",
+          "Dust with more cocoa."
+      ],
+      "prep_time": 120  
+  },
+  "waffles": {
+      "culture": "Belgium",
+      "type": "breakfast",
+      "recipe": [
+          "Mix flour, eggs, and milk into batter.",
+          "Pour into waffle iron.",
+          "Cook until golden.",
+          "Serve with syrup."
+      ],
+      "prep_time": 20
+  }
+}
