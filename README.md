@@ -205,4 +205,3 @@ The following files are excluded from git due to size limits:
 - `.venv/` - Virtual environment (can be recreated)
 - `classical_nn_model.h5` - Neural network model (can be retrained)
 - `__pycache__/` - Python cache files
-
